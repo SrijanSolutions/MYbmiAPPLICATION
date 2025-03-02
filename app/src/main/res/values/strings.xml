@@ -1,0 +1,23 @@
+<resources>
+    <!-- Labels -->
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight_label">Weight (kg)</string>
+    <string name="height_feet_label">Height (Feet)</string>
+    <string name="height_inches_label">Height (Inches)</string>
+
+    <!-- Hints -->
+    <string name="weight_hint">Enter weight in kilograms</string>
+    <string name="height_feet_hint">Enter feet part</string>
+    <string name="height_inches_hint">Enter inches part</string>
+
+    <!-- Button -->
+    <string name="calculate_button">Calculate BMI</string>
+
+    <!-- Messages -->
+    <string name="fill_fields">Please fill all fields</string>
+    <string name="invalid_input">Invalid input values</string>
+    <string name="underweight">Underweight (BMI: %.1f)</string>
+    <string name="noverweight">Overweight (BMI: %.1f)</string>
+    <string name="normal">Normal weight (BMI: %.1f)</string>
+    <string name="overweight">overweight\n</string>
+</resources>
